@@ -319,4 +319,8 @@
     margin: 0px;
     padding: 0px;
   }
+  .sections {
+    display: flex;
+    flex-wrap: wrap;
+  }
 }
